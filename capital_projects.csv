@@ -1,0 +1,11 @@
+ProjectID,ProjectName,Category,Budget,ActualSpend,PctComplete,Status,StartDate,TargetEndDate
+CIP-2201,Water Main Replacement - NW District,Distribution,5000000,4843898,90,On Track,2024-01-15,2026-09-30
+CIP-2202,Springwells Filter Rehabilitation,Treatment,18000000,10891281,60,At Risk,2024-01-15,2026-09-30
+CIP-2203,Lake Huron Intake Upgrade,Treatment,2500000,1656867,75,Delayed,2024-01-15,2026-09-30
+CIP-2204,SCADA Modernization,Technology,18000000,5517777,30,On Track,2024-01-15,2026-09-30
+CIP-2205,Reservoir Structural Repair,Storage,5000000,2489278,45,At Risk,2024-01-15,2026-09-30
+CIP-2206,Pump Station 7 Electrical,Pumping,2500000,2051146,90,Delayed,2024-01-15,2026-09-30
+CIP-2207,Sewer Interceptor Lining,Collection,12000000,2015400,15,At Risk,2024-01-15,2026-09-30
+CIP-2208,Meter Infrastructure (AMI) Rollout,Metering,2500000,1334375,60,At Risk,2024-01-15,2026-09-30
+CIP-2209,Northeast Plant Roof & HVAC,Facilities,12000000,7805889,75,At Risk,2024-01-15,2026-09-30
+CIP-2210,Cybersecurity Hardening,Technology,42000000,39582937,100,Complete,2024-01-15,2026-09-30
